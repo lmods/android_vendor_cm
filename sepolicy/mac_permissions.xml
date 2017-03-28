@@ -14,4 +14,15 @@
     <allow-all />
     <seinfo value="release" />
   </signer>
+<<<<<<< HEAD
+=======
+
+  <!-- CMUpdater -->
+  <signer signature="@RELEASE" >
+    <package name="com.cyanogenmod.updater" >
+      <seinfo value="cmupdater" />
+    </package>
+  </signer>
+
+>>>>>>> e098867... Remove all traces of CMTE policy
 </policy>
